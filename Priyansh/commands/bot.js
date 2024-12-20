@@ -312,7 +312,7 @@ if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara"
    (event.body.includes("bhabhi") == 1 ||
    (event.body.includes("oye") == 1 )))))))) {
     var msg = {
-      body: `🌸🥀${name}🌺🥀,  \n\n『\n   ${rand} 』\n\n❤️𝙲𝚛𝚎𝚍𝚒𝚝𝚜 : 𝐕𝐚𝐫𝐮𝐧 𝐃𝐡𝐚𝐰𝐚𝐥🌹`
+      body: `🌸🥀${name}🌺🥀,  \n\n『\n   ${rand} 』\n\n❤️𝙲𝚛𝚎𝚍𝚒𝚝𝚜 : 𝐕𝐈𝐏𝐈𝐍 𝐂𝐇𝐀𝐔𝐃𝐇𝐀𝐑𝐘🌹`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
