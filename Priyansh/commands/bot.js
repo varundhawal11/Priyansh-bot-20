@@ -308,7 +308,7 @@ if ((event.body.toLowerCase() == "yaara") || (event.body.toLowerCase() == "yara"
    (event.body.includes("varun dhawal") == 1 ||
    (event.body.includes("varun") == 1 ||
    (event.body.includes("akshay") == 1 ||
-  (event.body.includes("panday") == 1 ||
+  (event.body.includes("vipin") == 1 ||
    (event.body.includes("bhabhi") == 1 ||
    (event.body.includes("oye") == 1 )))))))) {
     var msg = {
